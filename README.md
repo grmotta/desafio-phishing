@@ -1,4 +1,4 @@
-![Captura de tela 2025-01-18 090251](https://github.com/user-attachments/assets/8a0ab00e-bc26-43a3-ad5c-4ba7a6e16b57)![Captura de tela 2025-01-18 090251](https://github.com/user-attachments/assets/4f39c2c0-d47a-44b2-8cb2-5e21fbf30d3c)# desafio-phishing
+#desafio-phishing
 Desafio: criação de phishing
 
 Configurando o Phishing no Kali Linux
@@ -10,7 +10,7 @@ Método de ataque: Credential Harvester Attack Method
 Método de ataque: Site Cloner
 Obtendo o endereço da máquina: ifconfig
 URL para clone: www.facebook.com
-Resutados:
+#Resutados:
 
 ![Captura de tela 2025-01-18 090251](https://github.com/user-attachments/assets/034b26f5-e42b-4726-acac-fe6b2380ff54)
 
