@@ -67,10 +67,14 @@ PARAM: trynum=1
 PARAM: timezone=                                                                                                       	 
 PARAM: lgndim=                                                                                                         	 
 PARAM: lgnrnd=035336_s87N                                                                                              	 
-PARAM: lgnjs=n                                                                                                         	 
-POSSIBLE USERNAME FIELD FOUND: email=teste@teste.com <--------------------- Login                                                                  	 
-POSSIBLE PASSWORD FIELD FOUND: pass=teste <--------------------- Senha                                                            	 
-POSSIBLE USERNAME FIELD FOUND: login=1                                                                                 	 
+PARAM: lgnjs=n
+
+POSSIBLE USERNAME FIELD FOUND: email=teste@teste.com <--------------------- Login
+
+POSSIBLE PASSWORD FIELD FOUND: pass=teste <--------------------- Senha
+
+POSSIBLE USERNAME FIELD FOUND: login=1
+
 PARAM: prefill_contact_point=                                                                                          	 
 PARAM: prefill_source=                                                                                                 	 
 PARAM: prefill_type=                                                                                                   	 
